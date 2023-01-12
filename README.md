@@ -54,8 +54,5 @@ Include your code here
 ###primary key
 ![output](/8c399347-194f-4465-8e4d-8ceee4fc78e4.jpeg)
 
-Include the screenshot of your admin page.
-
-
 ## RESULT
 Thus we delveloped a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
